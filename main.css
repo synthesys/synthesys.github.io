@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lobster', cursive;
+}
+
+h1  {
+    font-size: 3em;
+    color: #26a7f7;
+    text-align: center;
+    padding: 5px
+}
+p {
+    font-family: 'Droid Serif', serif;
+    color: #000;
+    text-align: center;
+}
+
+.title {
+    margin: 0 auto;
+    padding: 15px;
+    width: 850px;
+    height: 300px;
+    box-shadow: 0 0 20px rgba(0,0,0,.5);
+    <!--border: 1px red solid;-->
+}
+
+ul li {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0px
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    padding: 0px
+}
