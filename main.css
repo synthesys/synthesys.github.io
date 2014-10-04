@@ -1,9 +1,10 @@
 body {
     font-family: 'Lobster', cursive;
+    margin: 25px;
 }
 
 h1  {
-    font-size: 3em;
+    font-size: 4em;
     color: #26a7f7;
     text-align: center;
     padding: 5px
