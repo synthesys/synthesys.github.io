@@ -1,130 +1,135 @@
 {
- "name": "templates",
+ "name": "aem",
  "children": [
-  {
-   "name": "ageloc",
-   "children": [
-    {"name": "BasicPage", "size": 1},
-    {"name": "ContentPage", "size": 1},
-    {"name": "SimplePage", "size": 1},
-   ]
-  },
-  {
-   "name": "backoffice",
-   "children": [
-    {"name": "BackofficeDashboard", "size": 89},
-    {"name": "BackofficeEditorial", "size": 8612},
-    {"name": "BackofficeEmptyDashboard", "size": 1},
-   ]
-  },
-  {
-   "name": "forceforgood",
-   "children": [
-    {"name": "BasicPage", "size": 1},
-    {"name": "ContentPage", "size": 1},
-    {"name": "DonatePage", "size": 1},
-   ]
-  },
-  {
-   "name": "global",
-   "children": [
-    {"name": "AccountRedirect", "size": 5},
     {
-     "name": "lto",
+     "name": "templates",
      "children": [
-       {"name": "Authenticated", "size": 85},
-       {"name": "Basic", "size": 1218},
-       {"name": "Buyer", "size": 1},
-       {"name": "BuyerOther", "size": 62},
-       {"name": "BuyerSelect", "size": 19},
-       {"name": "Landing", "size": 184},
-       {"name": "MarketSelect", "size": 3},
-       {"name": "WaitingRoom", "size": 172},
-    ]
-    },
-    {"name": "Calendar", "size": 1},
-    {"name": "CalendarEvent", "size": 5},
-    {"name": "Configuration", "size": 21},
-    {"name": "EventForm", "size": 1},
-    {"name": "Form", "size": 1279},
-    {"name": "FormCategory", "size": 4},
-    {"name": "FormCountry", "size": 98},
-    {"name": "Generic", "size": 1},
-    {"name": "HeadFooter", "size": 1},
-    {"name": "Locale", "size": 183},
-    {"name": "MyAccount", "size": 1},
-    {"name": "RedirectPage", "size": 2734},
-    {"name": "Router", "size": 1},
-    {"name": "Section", "size": 1171},
-    {"name": "ShippingMethodConfig", "size": 1},
-    {"name": "Xmlsitemap", "size": 1},
-   ]
-  },
-  {
-   "name": "hello",
-   "children": [
-    {"name": "AccountRedirect", "size": 523},
-    {"name": "ApplyOnline", "size": 2},
-    {"name": "Article", "size": 79},
-    {"name": "ArticleWithSideNav", "size": 5403},
-    {"name": "BasicApplication", "size": 9},
-    {"name": "HelloBasic", "size": 48983},
-    {"name": "HelloCheckout", "size": 1},
-    {"name": "HelloEditorial", "size": 33844},
-    {"name": "HelloFullPressRelease", "size": 339},
-    {"name": "HelloGlobalLanding", "size": 7},
-    {"name": "HelloHome", "size": 112},
-    {"name": "HelloIFrame", "size": 3},
-    {"name": "HelloLocale", "size": 106},
-    {"name": "HelloMyAccount", "size": 105},
-    {"name": "HelloPRCategory", "size": 20},
-    {"name": "HelloPressRelease", "size": 10},
-    {"name": "HelloProductCatalog", "size": 10787},
-    {"name": "HelloProductDetail", "size": 66840},
-    {"name": "HelloRecognition", "size": 40},
-    {"name": "HelloRecognitionDetail", "size": 1093},
-    {"name": "HelloShop", "size": 100},
-    {"name": "HelloSignup", "size": 373},
-    {"name": "HelloSitemap", "size": 82},
-    {"name": "MyOffers", "size": 2},
-    {"name": "PFCForm", "size": 1},
-    {"name": "SingleCheckout", "size": 1},
-    ]
-   },
-  {
-   "name": "microsites",
-   "children": [
-    {"name": "ageLOCMEBasic", "size": 1},
-    {"name": "ageLOCMERoute", "size": 1},
-    {"name": "Basic", "size": 836},
-    {"name": "Editorial", "size": 914},
-    {"name": "Home", "size": 124},
-    {"name": "Locale", "size": 149},
-    {"name": "Market", "size": 34},
-    {"name": "MyAccount", "size": 2},
-    {"name": "ProductCatalog", "size": 298},
-    {"name": "ProductDetail", "size": 1383},
-    {"name": "RMDBasic", "size": 1},
-    {"name": "RMDLanguage", "size": 1},
-    {"name": "RMDProfile", "size": 1},
-    {"name": "Shop", "size": 51},
-    {"name": "Signup", "size": 149},
-   ]
-  },
-  {
-   "name": "mobilemarketing",
-   "children": [
-    {"name": "BasicPage", "size": 105},
-    {"name": "ContentPage", "size": 1},
-   ]
-  },
-  {
-   "name": "products",
-   "children": [
-    {"name": "Product", "size": 37826},
-    {"name": "ProductContainer", "size": 3735},
-    {"name": "ProductLanguage", "size": 27109},
-   ]
-  },
+      {
+       "name": "ageloc",
+       "children": [
+        {"name": "BasicPage", "size": 1},
+        {"name": "ContentPage", "size": 1},
+        {"name": "SimplePage", "size": 1},
+       ]
+      },
+      {
+       "name": "backoffice",
+       "children": [
+        {"name": "BackofficeDashboard", "size": 89},
+        {"name": "BackofficeEditorial", "size": 8612},
+        {"name": "BackofficeEmptyDashboard", "size": 1},
+       ]
+      },
+      {
+       "name": "forceforgood",
+       "children": [
+        {"name": "BasicPage", "size": 1},
+        {"name": "ContentPage", "size": 1},
+        {"name": "DonatePage", "size": 1},
+       ]
+      },
+      {
+       "name": "global",
+       "children": [
+        {"name": "AccountRedirect", "size": 5},
+        {
+         "name": "lto",
+         "children": [
+           {"name": "Authenticated", "size": 85},
+           {"name": "Basic", "size": 1218},
+           {"name": "Buyer", "size": 1},
+           {"name": "BuyerOther", "size": 62},
+           {"name": "BuyerSelect", "size": 19},
+           {"name": "Landing", "size": 184},
+           {"name": "MarketSelect", "size": 3},
+           {"name": "WaitingRoom", "size": 172},
+         ]
+        },
+        {"name": "Calendar", "size": 1},
+        {"name": "CalendarEvent", "size": 5},
+        {"name": "Configuration", "size": 21},
+        {"name": "EventForm", "size": 1},
+        {"name": "Form", "size": 1279},
+        {"name": "FormCategory", "size": 4},
+        {"name": "FormCountry", "size": 98},
+        {"name": "Generic", "size": 1},
+        {"name": "HeadFooter", "size": 1},
+        {"name": "Locale", "size": 183},
+        {"name": "MyAccount", "size": 1},
+        {"name": "RedirectPage", "size": 2734},
+        {"name": "Router", "size": 1},
+        {"name": "Section", "size": 1171},
+        {"name": "ShippingMethodConfig", "size": 1},
+        {"name": "Xmlsitemap", "size": 1},
+       ]
+      },
+      {
+       "name": "hello",
+       "children": [
+        {"name": "AccountRedirect", "size": 523},
+        {"name": "ApplyOnline", "size": 2},
+        {"name": "Article", "size": 79},
+        {"name": "ArticleWithSideNav", "size": 5403},
+        {"name": "BasicApplication", "size": 9},
+        {"name": "HelloBasic", "size": 48983},
+        {"name": "HelloCheckout", "size": 1},
+        {"name": "HelloEditorial", "size": 33844},
+        {"name": "HelloFullPressRelease", "size": 339},
+        {"name": "HelloGlobalLanding", "size": 7},
+        {"name": "HelloHome", "size": 112},
+        {"name": "HelloIFrame", "size": 3},
+        {"name": "HelloLocale", "size": 106},
+        {"name": "HelloMyAccount", "size": 105},
+        {"name": "HelloPRCategory", "size": 20},
+        {"name": "HelloPressRelease", "size": 10},
+        {"name": "HelloProductCatalog", "size": 10787},
+        {"name": "HelloProductDetail", "size": 66840},
+        {"name": "HelloRecognition", "size": 40},
+        {"name": "HelloRecognitionDetail", "size": 1093},
+        {"name": "HelloShop", "size": 100},
+        {"name": "HelloSignup", "size": 373},
+        {"name": "HelloSitemap", "size": 82},
+        {"name": "MyOffers", "size": 2},
+        {"name": "PFCForm", "size": 1},
+        {"name": "SingleCheckout", "size": 1},
+        ]
+       },
+      {
+       "name": "microsites",
+       "children": [
+        {"name": "ageLOCMEBasic", "size": 1},
+        {"name": "ageLOCMERoute", "size": 1},
+        {"name": "Basic", "size": 836},
+        {"name": "Editorial", "size": 914},
+        {"name": "Home", "size": 124},
+        {"name": "Locale", "size": 149},
+        {"name": "Market", "size": 34},
+        {"name": "MyAccount", "size": 2},
+        {"name": "ProductCatalog", "size": 298},
+        {"name": "ProductDetail", "size": 1383},
+        {"name": "RMDBasic", "size": 1},
+        {"name": "RMDLanguage", "size": 1},
+        {"name": "RMDProfile", "size": 1},
+        {"name": "Shop", "size": 51},
+        {"name": "Signup", "size": 149},
+       ]
+      },
+      {
+       "name": "mobilemarketing",
+       "children": [
+        {"name": "BasicPage", "size": 105},
+        {"name": "ContentPage", "size": 1},
+       ]
+      },
+      {
+       "name": "products",
+       "children": [
+        {"name": "Product", "size": 37826},
+        {"name": "ProductContainer", "size": 3735},
+        {"name": "ProductLanguage", "size": 27109},
+       ]
+      },
+     ]
+    }
  ]
 }
