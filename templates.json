@@ -182,7 +182,7 @@
                                             "children": [
                                                 {
                                                     "name": "callout",
-                                                    "size": 10
+                                                    "size": 32806
                                                 }
                                             ]
                                         }
@@ -204,7 +204,7 @@
                                                     "children": [
                                                         {
                                                             "name": "colctrl",
-                                                            "size": 10
+                                                            "size": 7997
                                                         }
                                                     ]
                                                 }
@@ -230,27 +230,27 @@
                                             "children": [
                                                 {
                                                     "name": "download",
-                                                    "size": 10
+                                                    "size": 13406
                                                 },
                                                 {
                                                     "name": "image",
-                                                    "size": 10
+                                                    "size": 30000
                                                 },
                                                 {
                                                     "name": "list",
-                                                    "size": 10
+                                                    "size": 500
                                                 },
                                                 {
                                                     "name": "text",
-                                                    "size": 10
+                                                    "size": 81000
                                                 },
                                                 {
                                                     "name": "textimage",
-                                                    "size": 10
+                                                    "size": 61451
                                                 },
                                                 {
                                                     "name": "title",
-                                                    "size": 10
+                                                    "size": 84010
                                                 }
                                             ]
                                         }
