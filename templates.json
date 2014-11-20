@@ -255,6 +255,119 @@
                                             ]
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "global",
+                                    "children": [
+                                        {
+                                            "name": "components",
+                                            "children": [
+                                                {
+                                                    "name": "content",
+                                                    "children": [
+                                                        {
+                                                            "name": "horizontalrule",
+                                                            "size": 10
+                                                        },
+                                                        {
+                                                            "name": "movie",
+                                                            "size": 10
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "addthis",
+                                                    "size": 10
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "collab",
+                                    "children": [
+                                        {
+                                            "name": "calendar",
+                                            "children": [
+                                                {
+                                                    "name": "components",
+                                                    "children": [
+                                                        {
+                                                            "name": "lenses",
+                                                            "children": [
+                                                                {
+                                                                    "name": "agenda",
+                                                                    "size": 10
+                                                                },
+                                                                {
+                                                                    "name": "day",
+                                                                    "size": 10
+                                                                },
+                                                                {
+                                                                    "name": "month",
+                                                                    "size": 10
+                                                                },
+                                                                {
+                                                                    "name": "week",
+                                                                    "size": 10
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "exportlink",
+                                                            "size": 10
+                                                        },
+                                                        {
+                                                            "name": "event",
+                                                            "size": 10
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "hello",
+                                    "children": [
+                                        {
+                                            "name": "components",
+                                            "children": [
+                                                {
+                                                    "name": "callout",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "flipthrough",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "hero",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "myoffers_aggregator",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "navigation_dropdown",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "hello_slideshow",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "hello_slideshowpro",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "utube",
+                                                    "size": 10
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -268,6 +381,15 @@
                                             "name": "components",
                                             "children": [
                                                 {
+                                                    "name": "parsys",
+                                                    "children": [
+                                                        {
+                                                            "name": "colctrl",
+                                                            "size": 10
+                                                        }
+                                                    ]
+                                                },
+                                                {
                                                     "name": "flash",
                                                     "size": 10
                                                 },
@@ -278,6 +400,25 @@
                                                 {
                                                     "name": "table",
                                                     "size": 10
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "cq",
+                                    "children": [
+                                        {
+                                            "name": "personalization",
+                                            "children": [
+                                                {
+                                                    "name": "components",
+                                                    "children": [
+                                                        {
+                                                            "name": "teaser",
+                                                            "size": 10
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
