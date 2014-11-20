@@ -4,87 +4,165 @@
         {
             "name": "assetshare",
             "children": [
-                {"name": "offerpage", "size": 10},
-                {"name": "teaserpage", "size": 10},
-                {"name": "promotion", "size": 10},
-                {"name": "pack", "size": 10},
-                {"name": "collectionpage", "size": 10},
-                {"name": "formpage", "size": 10},
-                {"name": "segmentpage", "size": 10},
-                {"name": "newsletterpage", "size": 10},
-                {"name": "model", "size": 10},
-                {"name": "page", "size": 10},
-                {"name": "clientcontextdesigner", "size": 10},
-                {"name": "assetshare", "size": 10},
-                {"name": "asseteditor", "size": 10}
+                {
+                    "name": "offerpage",
+                    "size": 10
+                },
+                {
+                    "name": "teaserpage",
+                    "size": 10
+                },
+                {
+                    "name": "promotion",
+                    "size": 10
+                },
+                {
+                    "name": "pack",
+                    "size": 10
+                },
+                {
+                    "name": "collectionpage",
+                    "size": 10
+                },
+                {
+                    "name": "formpage",
+                    "size": 10
+                },
+                {
+                    "name": "segmentpage",
+                    "size": 10
+                },
+                {
+                    "name": "newsletterpage",
+                    "size": 10
+                },
+                {
+                    "name": "model",
+                    "size": 10
+                },
+                {
+                    "name": "page",
+                    "size": 10
+                },
+                {
+                    "name": "clientcontextdesigner",
+                    "size": 10
+                },
+                {
+                    "name": "assetshare",
+                    "size": 10
+                },
+                {
+                    "name": "asseteditor",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "kubrick",
             "children": [
-                {"name": "page", "size": 10}
+                {
+                    "name": "page",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "calendar",
             "children": [
-                {"name": "page", "size": 10},
-                {"name": "formpage", "size": 10}
+                {
+                    "name": "page",
+                    "size": 10
+                },
+                {
+                    "name": "formpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "framework-design",
             "children": [
-                {"name": "framework", "size": 10}
+                {
+                    "name": "framework",
+                    "size": 10
+                }
             ]
         },
-        {"name": "creativecloud", size: 10},
+        {
+            "name": "creativecloud",
+            "size": 10
+        },
         {
             "name": "dashboards",
             "children": [
-                {"name": "page", "size": 10}
+                {
+                    "name": "page",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "auditreport",
             "children": [
-                {"name": "reportpage", "size": 10}
+                {
+                    "name": "reportpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "compreport",
             "children": [
-                {"name": "reportpage", "size": 10}
+                {
+                    "name": "reportpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "instancereport",
             "children": [
-                {"name": "reportpage", "size": 10}
+                {
+                    "name": "reportpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "ugcreport",
             "children": [
-                {"name": "reportpage", "size": 10}
+                {
+                    "name": "reportpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "userreport",
             "children": [
-                {"name": "reportpage", "size": 10}
+                {
+                    "name": "reportpage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "wordDesign",
             "children": [
-                {"name": "wordPage", "size": 10}
+                {
+                    "name": "wordPage",
+                    "size": 10
+                }
             ]
         },
         {
             "name": "mac",
             "children": [
-                {"name": "contentpage", "size": 10}
+                {
+                    "name": "contentpage",
+                    "size": 10
+                }
             ]
         },
         {
@@ -102,11 +180,14 @@
                                         {
                                             "name": "components",
                                             "children": [
-                                                {"name": "callout", "size": 10}
+                                                {
+                                                    "name": "callout",
+                                                    "size": 10
+                                                }
                                             ]
-                                        },
+                                        }
                                     ]
-                                },
+                                }
                             ]
                         },
                         {
@@ -121,15 +202,18 @@
                                                 {
                                                     "name": "parsys",
                                                     "children": [
-                                                        {"name": "colctrl", "size": 10}
+                                                        {
+                                                            "name": "colctrl",
+                                                            "size": 10
+                                                        }
                                                     ]
-                                                },
+                                                }
                                             ]
-                                        },
+                                        }
                                     ]
-                                },
+                                }
                             ]
-                        },
+                        }
                     ]
                 },
                 {
@@ -144,16 +228,34 @@
                                         {
                                             "name": "components",
                                             "children": [
-                                                {"name": "download", "size": 10},
-                                                {"name": "image", "size": 10},
-                                                {"name": "list", "size": 10},
-                                                {"name": "text", "size": 10},
-                                                {"name": "textimage", "size": 10},
-                                                {"name": "title", "size": 10}
+                                                {
+                                                    "name": "download",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "image",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "list",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "text",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "textimage",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "title",
+                                                    "size": 10
+                                                }
                                             ]
-                                        },
+                                        }
                                     ]
-                                },
+                                }
                             ]
                         },
                         {
@@ -165,18 +267,27 @@
                                         {
                                             "name": "components",
                                             "children": [
-                                                {"name": "flash", "size": 10},
-                                                {"name": "reference", "size": 10},
-                                                {"name": "table", "size": 10}
+                                                {
+                                                    "name": "flash",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "reference",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "table",
+                                                    "size": 10
+                                                }
                                             ]
-                                        },
+                                        }
                                     ]
-                                },
+                                }
                             ]
-                        },
+                        }
                     ]
-                },
+                }
             ]
-        },
+        }
     ]
 }
