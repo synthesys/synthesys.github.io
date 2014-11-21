@@ -427,6 +427,58 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "teaserpage",
+                    "size": 10
+                },
+                {
+                    "name": "hello_product_detail",
+                    "size": 10
+                },
+                {
+                    "name": "hello_editorial",
+                    "children": [
+                        {
+                            "name": "apps",
+                            "children": [
+                                {
+                                    "name": "foundation",
+                                    "children": [
+                                        {
+                                            "name": "components",
+                                            "children": [
+                                                {
+                                                    "name": "download",
+                                                    "size": 13406
+                                                },
+                                                {
+                                                    "name": "image",
+                                                    "size": 30000
+                                                },
+                                                {
+                                                    "name": "list",
+                                                    "size": 500
+                                                },
+                                                {
+                                                    "name": "text",
+                                                    "size": 81000
+                                                },
+                                                {
+                                                    "name": "textimage",
+                                                    "size": 61451
+                                                },
+                                                {
+                                                    "name": "title",
+                                                    "size": 84010
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
