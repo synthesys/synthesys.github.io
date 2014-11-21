@@ -1,6 +1,6 @@
 var data = [
-{"name":"design.corpcom.hello_home","size":3938,"imports":["apps.hello.components.callout","libs.foundation.components.parsys.colctrl"]},
-{"name":"flare.analytics.cluster.CommunityStructure","size":3812,"imports":["flare.analytics.cluster.HierarchicalCluster","flare.animate.Transitioner","flare.vis.data.DataList","flare.analytics.cluster.MergeEdge","flare.util.math.IMatrix"]},
+{"name":"design.corpcom.hello_home","size":122,"imports":["apps.hello.components.callout","libs.foundation.components.parsys.colctrl"]},
+{"name":"design.corpcom.hello_basic","size":48983,"imports":["apps.foundation.components.download","libs.foundation.components.flash","apps.global.components.content.horizontalrule","app.foundation.components.image","apps.foundation.components.list","apps.global.components.content.movie","libs.foundation.components.reference"]},
 {"name":"flare.analytics.cluster.HierarchicalCluster","size":6714,"imports":["flare.vis.data.EdgeSprite","flare.vis.data.NodeSprite","flare.vis.data.DataList","flare.vis.data.Tree","flare.util.Arrays","flare.analytics.cluster.MergeEdge","flare.util.Sort","flare.vis.operator.Operator","flare.util.Property","flare.vis.data.Data"]},
 {"name":"flare.analytics.cluster.MergeEdge","size":743,"imports":[]},
 {"name":"flare.analytics.graph.BetweennessCentrality","size":3534,"imports":["flare.animate.Transitioner","flare.vis.data.NodeSprite","flare.vis.data.DataList","flare.util.Arrays","flare.vis.data.Data","flare.util.Property","flare.vis.operator.Operator"]},
