@@ -1,5 +1,5 @@
 (function() {
-  packages = {
+  var packages = {
 
     // Lazily construct the package hierarchy from class names.
     root: function(classes) {
