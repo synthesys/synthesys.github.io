@@ -31,7 +31,7 @@
           imports = [];
 
       // Compute a map from name to node.
-      nodes.forEach(function(d) {
+      nodes.forEach(function (d) {
         map[d.name] = d;
       });
 
