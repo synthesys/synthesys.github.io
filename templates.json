@@ -475,6 +475,69 @@
                                             ]
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "global",
+                                    "children": [
+                                        {
+                                            "name": "components",
+                                            "children": [
+                                                {
+                                                    "name": "content",
+                                                    "children": [
+                                                        {
+                                                            "name": "horizontalrule",
+                                                            "size": 20607
+                                                        },
+                                                        {
+                                                            "name": "movie",
+                                                            "size": 4299
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "addthis",
+                                                    "size": 5160
+                                                },
+                                                {
+                                                    "name": "locator",
+                                                    "size": 10
+                                                },
+                                                {
+                                                    "name": "scannerprofilemanager",
+                                                    "size": 10
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "collab",
+                                    "children": [
+                                        {
+                                            "name": "calendar",
+                                            "children": [
+                                                {
+                                                    "name": "components",
+                                                    "children": [
+                                                        {
+                                                            "name": "form",
+                                                            "children": [
+                                                                {
+                                                                    "name": "recurrence",
+                                                                    "size": 10
+                                                                },
+                                                                {
+                                                                    "name": "eventbasis",
+                                                                    "size": 10
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         }
