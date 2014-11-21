@@ -267,17 +267,17 @@
                                                     "children": [
                                                         {
                                                             "name": "horizontalrule",
-                                                            "size": 10
+                                                            "size": 20607
                                                         },
                                                         {
                                                             "name": "movie",
-                                                            "size": 10
+                                                            "size": 4299
                                                         }
                                                     ]
                                                 },
                                                 {
                                                     "name": "addthis",
-                                                    "size": 10
+                                                    "size": 5160
                                                 }
                                             ]
                                         }
@@ -335,35 +335,35 @@
                                             "children": [
                                                 {
                                                     "name": "callout",
-                                                    "size": 10
+                                                    "size": 32806
                                                 },
                                                 {
                                                     "name": "flipthrough",
-                                                    "size": 10
+                                                    "size": 2
                                                 },
                                                 {
                                                     "name": "hero",
-                                                    "size": 10
+                                                    "size": 32560
                                                 },
                                                 {
                                                     "name": "myoffers_aggregator",
-                                                    "size": 10
+                                                    "size": 60
                                                 },
                                                 {
                                                     "name": "navigation_dropdown",
-                                                    "size": 10
+                                                    "size": 68
                                                 },
                                                 {
                                                     "name": "hello_slideshow",
-                                                    "size": 10
+                                                    "size": 24045
                                                 },
                                                 {
                                                     "name": "hello_slideshowpro",
-                                                    "size": 10
+                                                    "size": 6
                                                 },
                                                 {
                                                     "name": "utube",
-                                                    "size": 10
+                                                    "size": 1664
                                                 }
                                             ]
                                         }
